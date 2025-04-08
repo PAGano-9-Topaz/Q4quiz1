@@ -1,0 +1,14 @@
+.container {
+	display: inline-flex;
+	background-color: rosybrown;
+	border-radius: 15px;
+	margin:20px;
+	padding: 10px;
+}
+
+.photo {
+	width: 80%;
+	margin-top: 20px;
+	border-radius: 15px;
+}
+
